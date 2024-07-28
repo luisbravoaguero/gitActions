@@ -18,6 +18,11 @@ This command sets up a new Git repository in your project folder.
 
 
 
+4. Create a new Branch:
+git checkout -b new-branch-name
+
+
+
 
 Step 2: Add Your Project Files to Git
 
