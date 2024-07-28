@@ -1,0 +1,10 @@
+git clone -b <branch_name> --single-branch <repository_url>
+
+
+
+Replace <branch_name> with the name of the branch you want to clone and <repository_url> with the URL of the repository.
+
+For example, if you want to clone the branch feature-branch from a repository located at https://github.com/user/repo.git, you would use:
+
+
+git clone -b feature-branch --single-branch https://github.com/user/repo.git
